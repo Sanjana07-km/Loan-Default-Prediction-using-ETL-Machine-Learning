@@ -1,4 +1,4 @@
-# Loan-Default-Prediction-using-ETL-Machine-Learning
+
 # Loan Default Prediction using ETL + Machine Learning
 
 ## 📌 Project Overview
@@ -32,7 +32,15 @@ To identify high-risk loan applicants using historical financial and credit-rela
 - Accuracy: 0.82  
 - Precision (Default class): 0.32  
 - Recall (Default class): 0.56  
-- F1-score: 0.41  
+- F1-score: 0.41
+
+  ## 📊 Visual Results
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+### ROC Curve
+![ROC Curve](roc_curve.png)
 
 ---
 
