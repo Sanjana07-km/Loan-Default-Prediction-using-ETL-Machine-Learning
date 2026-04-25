@@ -39,8 +39,9 @@ To identify high-risk loan applicants using historical financial and credit-rela
 ### Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
 
+
 ### ROC Curve
-![ROC Curve](roc_curve.png)
+![ROC Curve](roc-auc_curve.png)
 
 ---
 
